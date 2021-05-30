@@ -1,0 +1,33 @@
+body
+{
+    font-family:cursive;
+        font-size:17px;
+    line-height: 1.4;
+    
+}
+.row
+{
+    margin-left : -15px;
+    margin-right: -15px;
+}
+.container
+{
+    text-align: center;
+    
+}
+.img2
+{
+    width: 250px;
+    height: 200px;
+    
+}
+img
+{
+    vertical-align: middle;
+    border: 0;
+    
+}
+.carousel
+{
+    position: relative;
+}
